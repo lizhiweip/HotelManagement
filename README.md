@@ -14,7 +14,8 @@
     系统采用了角色分离，分为用户角色和管理员角色，为用户提供用户注册和房间预定功能，为管理员提供除用户功能以外的房间类型管理，房间管理，住宿管营收管理以及用户管理功能，
 </p>
 <h3>图片介绍：</h3>
-[![pF9MCt0.png](https://s11.ax1x.com/2024/01/10/pF9MCt0.png)](https://imgse.com/i/pF9MCt0)
-[![pF9MZnJ.png](https://s11.ax1x.com/2024/01/10/pF9MZnJ.png)](https://imgse.com/i/pF9MZnJ)
-[![pF9M11O.png](https://s11.ax1x.com/2024/01/10/pF9M11O.png)](https://imgse.com/i/pF9M11O)
-[![pF9M8je.png](https://s11.ax1x.com/2024/01/10/pF9M8je.png)](https://imgse.com/i/pF9M8je)
+
+![屏幕截图 2024-01-10 185038.png](https://www.freeimg.cn/i/2024/01/10/659e7b1a6d702.png)
+![屏幕截图 2024-01-10 185128.png](https://www.freeimg.cn/i/2024/01/10/659e7b5ec9b12.png)
+![屏幕截图 2024-01-10 185409.png](https://www.freeimg.cn/i/2024/01/10/659e7b9214cdb.png)
+![屏幕截图 2024-01-10 185444.png](https://www.freeimg.cn/i/2024/01/10/659e7ba9392c7.png)
