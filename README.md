@@ -1,24 +1,36 @@
-<h2>使用方法：</h2>
-<p>1.环境配置:后端jdk17,数据库MySql</p>
-<p>2.数据库导入：运行提供的sql文件</p>
-<p>3.运行后端</p>
-<p>4.前端在myapp目录下首先执行：npm install </p>
-<p>5.再执行：npm run start</p>
-<p>6.访问本地8000端口</p>
-<p>不用再登录，自动登录了，要登陆的话在数据库新建用户，登录的账号是userName(不要用中文，会乱码),密码是iDcardNo,</p>
-<h2>项目介绍：</h2>
-<p>
-    该项目为本人Java课程设计，从零开始搭建，数据库设计达到BCNF,酒店管理系统后端采用springBoot + Mybatis-Plus架构,前端使用antDesignPro脚手架快速开发，
-    提供了便捷的酒店管理解决方案。
-</p>
-<p>
-    系统采用了角色分离，分为用户角色和管理员角色，为用户提供用户注册充值和房间预定功能，为管理员提供包括用户功能以外的房间类型管理，房间管理，住宿管营收管理以及用户管理功能，
-</p>
-<h3>图片介绍：</h3>
-![image](https://github.com/user-attachments/assets/88488bff-4f25-4e6b-93ec-2694ba1050b8)
-![image](https://github.com/user-attachments/assets/85a451bc-d860-4e3f-8ec6-9713ab52a97f)
-![image](https://github.com/user-attachments/assets/a8c6428f-b2f0-4557-8b07-addf57aac34b)
-![image](https://github.com/user-attachments/assets/e77e7d3b-bf9e-4bbb-aff2-4b90eda15b6f)
-![image](https://github.com/user-attachments/assets/276fbe1d-cf7e-4b2e-9e7e-dea5445c6d5a)
+# 酒店管理系统🎉
 
+## 使用方法📖
+本系统部署轻松便捷，按以下步骤操作即可快速上手：
 
+| 步骤 | 详情 |
+| ---- | ---- |
+| 环境配置 | 后端需安装 `JDK 17`，数据库选用 `MySQL`，确保环境稳定运行，为系统提供坚实基础💪。 |
+| 数据库导入 | 找到并运行提供的 `sql` 文件，完成数据库初始化，搭建数据存储基石🧱。 |
+| 运行后端 | 执行相应启动命令，开启后端服务，默默守候数据交互的每一刻📡。 |
+| 前端操作 | 在 `myapp` 目录下依次执行：<br> `npm install`：安装前端依赖包，集齐系统运行的“装备”🛠️。<br> `npm run start`：启动前端项目，点亮交互界面✨。 |
+| 访问系统 | 打开浏览器，输入 `http://localhost:8000`，即可踏入酒店管理系统的便捷世界🚪。 |
+| 登录说明 | 系统贴心预设自动登录。若需手动操作，在数据库新建用户，注意登录账号为 `userName`（**请务必避免中文，以防乱码问题**），密码为 `iDcardNo`，安全进入系统，开启管理之旅🔐。 |
+
+## 项目介绍✨
+本项目作为精心打造的 Java 课程设计结晶，从无到有，步步雕琢：
+- 数据库设计遵循严格的 `BCNF` 范式，确保数据完整性与一致性，为系统稳定运行保驾护航🛡️。
+- 后端采用强大的 `springBoot + Mybatis-Plus` 架构组合，高效处理业务逻辑，与数据层亲密协作，让数据流转如丝般顺滑📈。
+- 前端借助 `antDesignPro` 脚手架飞速搭建，配以优雅简洁的设计风格，为用户带来舒适的交互体验🎨。
+
+系统精心设计角色分离体系，充分满足不同用户需求：
+- **用户角色**：提供一站式服务，涵盖用户注册、充值以及便捷的房间预定功能，让宾客轻松规划行程🛏️💳。
+- **管理员角色**：除具备用户功能权限外，更拥有强大的管控能力，包括房间类型管理、房间管理、住宿营收管理以及用户管理等全方位功能，掌控酒店运营全局👑💰。
+
+## 图片介绍📷
+以下是系统部分界面的精彩截图，直观展现系统的强大功能与精美设计：
+
+| 截图序号 | 截图预览 |
+| ---- | ---- |
+| 1 |![界面截图 1](https://github.com/user-attachments/assets/88488bff-4f25-4e6b-93ec-2694ba1050b8) |
+| 2 |![界面截图 2](https://github.com/user-attachments/assets/85a451bc-d860-4e3f-8ec6-9713ab52a97f) |
+| 3 |![界面截图 3](https://github.com/user-attachments/assets/a8c6428f-b2f0-4557-8b07-addf57aac34b) |
+| 4 |![界面截图 4](https://github.com/user-attachments/assets/e77e7d3b-bf9e-4bbb-aff2-4b90eda15b6f) |
+| 5 |![界面截图 5](https://github.com/user-attachments/assets/276fbe1d-cf7e-4b2e-9e7e-dea5445c6d5a) |
+
+希望本酒店管理系统能为您的学习、实践或实际运营带来帮助，如有任何疑问或建议，欢迎随时交流探讨📧。
