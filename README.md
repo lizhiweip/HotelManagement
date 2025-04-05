@@ -15,9 +15,10 @@
     系统采用了角色分离，分为用户角色和管理员角色，为用户提供用户注册充值和房间预定功能，为管理员提供包括用户功能以外的房间类型管理，房间管理，住宿管营收管理以及用户管理功能，
 </p>
 <h3>图片介绍：</h3>
-[![屏幕截图 2025-04-05 094013.png](https://img.picui.cn/free/2025/04/05/67f08ccf0b794.png)](https://img.picui.cn/free/2025/04/05/67f08ccf0b794.png)
-[![屏幕截图 2025-04-05 094049.png](https://img.picui.cn/free/2025/04/05/67f08ccf9feaf.png)](https://img.picui.cn/free/2025/04/05/67f08ccf9feaf.png)
-[![屏幕截图 2025-04-05 094030.png](https://img.picui.cn/free/2025/04/05/67f08ccfbe1f3.png)](https://img.picui.cn/free/2025/04/05/67f08ccfbe1f3.png)
-[![屏幕截图 2025-04-05 094135.png](https://img.picui.cn/free/2025/04/05/67f08cd0232ae.png)](https://img.picui.cn/free/2025/04/05/67f08cd0232ae.png)
-[![屏幕截图 2025-04-05 094108.png](https://img.picui.cn/free/2025/04/05/67f08cd02016d.png)](https://img.picui.cn/free/2025/04/05/67f08cd02016d.png)
+![image](https://github.com/user-attachments/assets/88488bff-4f25-4e6b-93ec-2694ba1050b8)
+![image](https://github.com/user-attachments/assets/85a451bc-d860-4e3f-8ec6-9713ab52a97f)
+![image](https://github.com/user-attachments/assets/a8c6428f-b2f0-4557-8b07-addf57aac34b)
+![image](https://github.com/user-attachments/assets/e77e7d3b-bf9e-4bbb-aff2-4b90eda15b6f)
+![image](https://github.com/user-attachments/assets/276fbe1d-cf7e-4b2e-9e7e-dea5445c6d5a)
+
 
